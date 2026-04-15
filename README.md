@@ -30,11 +30,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mahesh01mahesh/APS-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahesh01mahesh/APS-/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
