@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mahesh01mahesh/APS-/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -46,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mahesh01mahesh/APS-/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
