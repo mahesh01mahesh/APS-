@@ -32,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/mahesh01mahesh/APS-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahesh01mahesh/APS-/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0876-middle-of-the-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
