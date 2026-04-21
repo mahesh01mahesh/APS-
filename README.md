@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahesh01mahesh/APS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/mahesh01mahesh/APS-/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/mahesh01mahesh/APS-/tree/master/0542-01-matrix) |
 ## Dynamic Programming
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mahesh01mahesh/APS-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahesh01mahesh/APS-/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mahesh01mahesh/APS-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahesh01mahesh/APS-/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/mahesh01mahesh/APS-/tree/master/0542-01-matrix) |
@@ -92,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mahesh01mahesh/APS-/tree/master/0542-01-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
