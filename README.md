@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mahesh01mahesh/APS-/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahesh01mahesh/APS-/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mahesh01mahesh/APS-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mahesh01mahesh/APS-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mahesh01mahesh/APS-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahesh01mahesh/APS-/tree/master/0344-reverse-string) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mahesh01mahesh/APS-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
