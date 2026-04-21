@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mahesh01mahesh/APS-/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mahesh01mahesh/APS-/tree/master/0733-flood-fill) |
+| [0929-unique-email-addresses](https://github.com/mahesh01mahesh/APS-/tree/master/0929-unique-email-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mahesh01mahesh/APS-/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahesh01mahesh/APS-/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/mahesh01mahesh/APS-/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mahesh01mahesh/APS-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahesh01mahesh/APS-/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/mahesh01mahesh/APS-/tree/master/0929-unique-email-addresses) |
 ## Queue
 |  |
 | ------- |
