@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/mahesh01mahesh/APS-/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/mahesh01mahesh/APS-/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mahesh01mahesh/APS-/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mahesh01mahesh/APS-/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mahesh01mahesh/APS-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahesh01mahesh/APS-/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 ## Queue
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mahesh01mahesh/APS-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahesh01mahesh/APS-/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mahesh01mahesh/APS-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahesh01mahesh/APS-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahesh01mahesh/APS-/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/mahesh01mahesh/APS-/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mahesh01mahesh/APS-/tree/master/0733-flood-fill) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/mahesh01mahesh/APS-/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Graph Theory
@@ -105,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mahesh01mahesh/APS-/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/mahesh01mahesh/APS-/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
